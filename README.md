@@ -74,14 +74,26 @@ This repo focuses on the analytical R code and documentation.
 ## Repository Structure
 
 📁 cyclistic-bike-share-analysis/
+
+```
+cyclistic-bike-share-analysis/
 │
-├── cyclistic_analysis.R               # Cleaned, structured R script
-├── cyclistic_analysis_datatable.R     # Optional optimized version using data.table
-├── README.md                          # This file
+├── README.md
 │
-├── /visuals                           # Exported charts (optional)
-├── /data                              # Cleaned data (if allowed to share)
-└── /docs                              # Additional documentation
+├── src/
+│   ├── cyclistic_analysis.R
+│   ├── cyclistic_analysis_datatable.R
+│
+├── visuals/
+│   ├── growth_trend.png
+│   ├── ride_distribution.png
+│
+├── docs/
+│   ├── business_case_summary.pdf
+│
+└── data/
+    ├── cleaned_data_sample.csv
+```
 
 ### How to Reproduce the Analysis
 
