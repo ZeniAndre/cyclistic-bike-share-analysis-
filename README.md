@@ -1,8 +1,8 @@
 # **Cyclistic Bike-Share Business Case**
 Converting Casual Riders into Annual Members
-
-Author: Andre Zeni — Business Data Analyst
-
+```
+                                                        Author: Andre Zeni — Business Data Analyst
+```
 ## Project Summary
 
 This project analyses historical bike-share trip data from Cyclistic (Q1 2019 vs Q1 2020) to answer a key business question:
@@ -113,11 +113,15 @@ source("cyclistic_analysis.R")
 
 ## **Portfolio Ecosystem :**
 
-#### Full interactive analysis (Kaggle Notebook): https://www.kaggle.com/code/andrezeni/cyclistic-bike-share-q1-2019-2020
+#### Full interactive analysis (Kaggle Notebook): 
+https://www.kaggle.com/code/andrezeni/cyclistic-bike-share-q1-2019-2020
 
-#### Executive dashboard (Tableau): https://public.tableau.com/app/profile/andre.zeni/vizzes
+#### Executive dashboard (Tableau): 
+https://public.tableau.com/app/profile/andre.zeni/vizzes
 
-#### Full project article (Live Portfolio): https://andrezeni.blogspot.com/
+#### Full project article (Live Portfolio): 
+https://andrezeni.blogspot.com/
 
-#### LinkedIn Profile: https://www.linkedin.com/in/andre-zeni-fs1991/
+#### LinkedIn Profile: 
+https://www.linkedin.com/in/andre-zeni-fs1991/
 
