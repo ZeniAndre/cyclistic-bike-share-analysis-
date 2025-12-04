@@ -97,10 +97,10 @@ cyclistic-bike-share-analysis/
 https://www.kaggle.com/code/andrezeni/cyclistic-bike-share-q1-2019-2020
 
 #### Executive dashboard (Tableau): 
-https://public.tableau.com/app/profile/andre.zeni/vizzes
+https://public.tableau.com/app/profile/andre.zeni/viz/BC_CYCLISTIC/Dashboard1
 
 #### Full project article (Live Portfolio): 
-https://andrezeni.blogspot.com/
+https://andrezeni.blogspot.com/2025/12/cyclistic-bike-share.html
 
 #### LinkedIn Profile: 
 https://www.linkedin.com/in/andre-zeni-fs1991/
